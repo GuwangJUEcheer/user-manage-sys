@@ -1,0 +1,1 @@
+export const LogoUrl = 'http://localhost:3000/api';
